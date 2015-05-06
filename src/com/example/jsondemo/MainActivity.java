@@ -10,7 +10,6 @@ import android.util.Log;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
-	
 	private String oneJsonStr = "{" + "\"single\" : " + "{" + "\"id\" : 1, \"name\" : \"tom\" , \"gender\" : \"ÄÐ\" " + "}" + "}";
 	private String twoJsonStr = "{" + "\"singers\" : " + 
         "[{" + "\"id\" : 2, \"name\" : \"tom\", \"gender\" : \"ÄÐ\" " + "}," + 
