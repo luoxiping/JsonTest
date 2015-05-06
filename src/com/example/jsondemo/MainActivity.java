@@ -33,7 +33,6 @@ public class MainActivity extends Activity {
 				Log.e("第" + i + "个", id2 + "");
 			}
 		} catch (JSONException e) {
-			 Log.e("第一个", "aaaaaaaaaaaaaaaaaaa");
 			e.printStackTrace();
 		}
     }
